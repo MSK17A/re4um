@@ -137,8 +137,8 @@ go run . cmd/main.go
 
 
 ## Authors
-- emahfood 
-- amali 
-- malsamma
-- sahmed
-- akhaled
+- emahfood (Eman Mahfoodh)
+- amali (Amjad Ali)
+- malsamma (Mohammad AlSammak)
+- sahmed (Sameer Ahmed)
+- akhaled (AbdulRahamn Khalid)
